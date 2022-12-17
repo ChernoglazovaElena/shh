@@ -1,0 +1,15 @@
+C:\Users\alena\source\repos\щщщ\щщщ\bin\Debug\net6.0\щщщ.exe
+C:\Users\alena\source\repos\щщщ\щщщ\bin\Debug\net6.0\щщщ.deps.json
+C:\Users\alena\source\repos\щщщ\щщщ\bin\Debug\net6.0\щщщ.runtimeconfig.json
+C:\Users\alena\source\repos\щщщ\щщщ\bin\Debug\net6.0\щщщ.dll
+C:\Users\alena\source\repos\щщщ\щщщ\bin\Debug\net6.0\щщщ.pdb
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.AssemblyInfo.cs
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.dll
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\refint\щщщ.dll
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.pdb
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\щщщ.genruntimeconfig.cache
+C:\Users\alena\source\repos\щщщ\щщщ\obj\Debug\net6.0\ref\щщщ.dll
